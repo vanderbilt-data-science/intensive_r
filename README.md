@@ -7,9 +7,20 @@ Analytics work
 
 ### Day 1
 
-
+- Discussion: Analytics pain points
+- Analytics workflow
+- Tour of RStudio 
+- Literate computing with Notebooks
+- Grammar of Data Manipulation
+- Running analytics projects in GitHub
+- Mini-analytics project
 
 ### Day 2
+
+- Grammar of Graphics
+- Reading/reshaping data
+- Validating data with pipeline tests
+- Reproducible analytics
 
 ## Pre-Workshop Preparation
 
@@ -20,6 +31,10 @@ Before the workshop complete the following to make sure you have all the softwar
 - [ ] Install R
 - [ ] Install RStudio
 - [ ] Install and test packages 
+- [ ] Sign up for GitHub
+- [ ] Install git
+- [ ] Connect to GitHub
+- [ ] Test out git/GitHub/RStudio integration
 
 ### Installing R
 
