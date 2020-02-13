@@ -56,8 +56,8 @@ install.packages("tidyverse")
 install.packages("janitor")
 install.packages("devtools")
 install.packages("assertr")
-library(readxl)
-library(glue)
+install.packages("readxl")
+install.packages("glue")
 ```
 
 ## GitHub Signup
