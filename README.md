@@ -12,14 +12,16 @@ We'll cover the basics necessary for a reproducible and efficient analytics work
 - Discussion: Analytics pain points
 - Analytics workflow
 - Tour of RStudio 
+- Cloning lesson (https://github.com/vanderbilt-data-science/r_analytics_workshop)
 - Literate computing with Notebooks
-- Grammar of Data Manipulation
+- Grammar of Data Manipulation 
 - Grammar of Graphics
 - Running analytics projects in GitHub
 - Mini-analytics project introduction
 
 ### Day 2
 - Setting up an analytics project
+- Using GitHub issues and GitHub project to manage projects (even if you're the only team member)
 - Validating data with pipeline tests
 - Exploring data
 - Reproducible analytics
@@ -61,6 +63,7 @@ install.packages("devtools")
 install.packages("assertr")
 install.packages("readxl")
 install.packages("glue")
+install.packages("knitr")
 ```
 
 ## GitHub Signup
