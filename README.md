@@ -1,7 +1,9 @@
 # intensive_r
 Analytics Intensive Workshop in R
 
-Analytics work 
+This workshop assumes a no familiarity with programming, but some experience or need of analytical tools. If you have experience with programming in Python, or in base R, this workshop will still be worthwhile.
+
+We'll cover the basics necessary for a reproducible and efficient analytics workflow. By the end of workshop, you'll have been introduced to functional programming, best practices for creatiing reproducible and understandable analytics, and tools and approaches to managing analytics projects. 
 
 ## Workshop Outline
 
@@ -12,15 +14,16 @@ Analytics work
 - Tour of RStudio 
 - Literate computing with Notebooks
 - Grammar of Data Manipulation
+- Grammar of Graphics
 - Running analytics projects in GitHub
-- Mini-analytics project
+- Mini-analytics project introduction
 
 ### Day 2
-
-- Grammar of Graphics
-- Reading/reshaping data
+- Setting up an analytics project
 - Validating data with pipeline tests
+- Exploring data
 - Reproducible analytics
+- Projects showcase
 
 ## Pre-Workshop Preparation
 
