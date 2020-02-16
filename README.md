@@ -26,6 +26,8 @@ We'll cover the basics necessary for a reproducible and efficient analytics work
 - Exploring data
 - Reproducible analytics
 - Projects showcase
+- Pain Checklist
+- Next steps
 
 ## Pre-Workshop Preparation
 
