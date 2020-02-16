@@ -20,7 +20,7 @@ We'll cover the basics necessary for a reproducible and efficient analytics work
 - Mini-analytics project introduction
 
 ### Day 2
-- Setting up an analytics project
+- Setting up an analytics project (see https://github.com/vanderbilt-data-science/analytics_r_template)
 - Using GitHub issues and GitHub project to manage projects (even if you're the only team member)
 - Validating data with pipeline tests
 - Exploring data
